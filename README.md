@@ -6,12 +6,11 @@ This repository contains programs and experiments done as part of the Operating 
 
 These programs are designed to work only in a **Linux environment**.
 
-They use:
-- Linux system calls
-- /proc file system
-- Fork, exec, wait
+They use the concepts like:
+-  system calls
 - IPC mechanisms
-- Shell commands
+- -Multithreading 
+
 
 They may not work properly on Windows without WSL or a Linux system.
 
