@@ -1,6 +1,6 @@
 # OS Lab
 
-This repository contains programs and experiments done as part of the Operating Systems Lab.
+This repository contains programs and experiments done as part of the Operating Systems Laboratory work.
 
 ## Important
 
@@ -9,7 +9,8 @@ These programs are designed to work only in a **Linux environment**.
 They use the concepts like:
 -  system calls
 - IPC mechanisms
-- -Multithreading 
+- -Multithreading
+
 
 
 They may not work properly on Windows without WSL or a Linux system.
